@@ -3,6 +3,8 @@
 *.mod.c
 *.o
 *.dwo
+*.mod
 Module.symvers
 modules.order
+tags
 .tmp_versions/
